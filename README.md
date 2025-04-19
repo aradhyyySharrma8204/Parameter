@@ -64,7 +64,7 @@ This project explores the optimization of **SVM (Support Vector Machine)** param
 
 This graph shows how the classification accuracy changes across 20 iterations of randomized parameter search for the best-performing sample:
 
-![Convergence Plot](https://github.com/ASingh917/102213027_Parameter/blob/main/ConvergenceGraph.png?raw=true)
+![Convergence Plot](https://github.com/aradhyyySharrma8204/Parameter/blob/main/ConvergenceGraph.png)
 
 
 ---
